@@ -33,5 +33,5 @@ pip install json
 
 
 ## screenshots
-![image info](screenshot_1.png)
-![image info](screenshot.png)
+![image info](screenshot_1)
+![image info](screenshot)

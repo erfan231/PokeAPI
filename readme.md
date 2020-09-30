@@ -33,5 +33,5 @@ pip install json
 
 
 ## screenshots
-![image info](C:\Users\erfan\OneDrive\Desktop\pokeapi_gui_version\screenshot.png)
-![image info](screenshot.png)
+![image info](screenshot_1.PNG)
+![image info](screenshot.PNG)
